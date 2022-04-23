@@ -1,5 +1,4 @@
-Fake News Detection Model
-===
+# Fake News Detection Model
 A fake new classification model implemented using scikit-learn in python.
 
 ## About Project
