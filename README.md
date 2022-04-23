@@ -2,7 +2,7 @@ Fake News Detection Model
 ===
 
 ## About Project
-A fake news detection passive aggressive classification model impolemented in python. The model was trained on the "news.csv" file and has 95+ percent accuracy.
+A fake news detection passive aggressive classification model impolemented in python. The model was trained on the "news.csv" file and has 90+ percent accuracy.
 ![model image](./model.png)
 
 ## Usage
