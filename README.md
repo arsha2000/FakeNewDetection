@@ -1,5 +1,6 @@
 Fake News Detection Model
 ===
+A fake new classification model implemented using scikit-learn in python.
 
 ## About Project
 A fake news detection passive aggressive classification model impolemented in python. The model was trained on the "news.csv" file and has 90+ percent accuracy.
